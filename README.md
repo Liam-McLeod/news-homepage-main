@@ -17,8 +17,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-rpSsxjlW2r)
--  [Live Site URL](https://liam-mcleod.github.io/FrontEndMentor-newsletter-sign-up/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/news-homepage-challenge-VN0iTidjW9)
+-  [Live Site URL](https://liam-mcleod.github.io/news-homepage-main/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
